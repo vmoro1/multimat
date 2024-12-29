@@ -1,4 +1,4 @@
-# MultiMat
+# Multimodal Learning for Materials
 This repository contains all source code needed in the article "Multimodal learning for Materials"
 
 ## Requirements
