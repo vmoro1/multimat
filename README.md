@@ -1,5 +1,5 @@
-# Multimodal Learning for Materials
-This repository contains all source code needed in the article "Multimodal learning for Materials"
+# Multimodal Learning for Materials (MultiMat)
+This repository contains all source code needed in the article "Multimodal foundation models for material property prediction and discovery".
 
 ## Requirements
 ### Hardware Requirements
