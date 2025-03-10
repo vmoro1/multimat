@@ -72,3 +72,18 @@ To interpret the crystal embeddings of a pre-trained MultiMAt model (and reprodu
 ```
 python tasks/interpretability.py --checkpoint_to_load PATH_TO_PRETRAINED_MULTIMAT_CHECKPOINT
 ```
+
+## Citation
+
+If you find this repository useful for your research, please consider citing our paper:
+
+```bibtex
+@article{moro2025multimodal,
+  author={Moro, Viggo and Loh, Charlotte and Dangovski, Rumen and Ghorashi, Ali and Ma, Andrew and Chen, Zhuo and Kim, Samuel and Lu, Peter Y. and Christensen, Thomas and Soljačić, Marin},
+  title     = {Multimodal foundation models for material property prediction and discovery},
+  journal   = {Newton},
+  year      = {2025},
+  doi       = {10.1016/j.newton.2025.100016},
+  url       = {https://doi.org/10.1016/j.newton.2025.100016},
+  publisher = {Elsevier},
+}
